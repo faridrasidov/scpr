@@ -1,0 +1,7 @@
+*.txt
+!requirements.txt
+*.env
+*.log
+/venv
+/.idea
+/dliub
